@@ -1,0 +1,5 @@
+D:\Asia Travel\Others\Research\wcfTest5\wcfTest5\obj\Debug\ResolveAssemblyReference.cache
+D:\Asia Travel\Others\Research\wcfTest5\wcfTest5\bin\wcfTest5.dll
+D:\Asia Travel\Others\Research\wcfTest5\wcfTest5\bin\wcfTest5.pdb
+D:\Asia Travel\Others\Research\wcfTest5\wcfTest5\obj\Debug\wcfTest5.dll
+D:\Asia Travel\Others\Research\wcfTest5\wcfTest5\obj\Debug\wcfTest5.pdb
